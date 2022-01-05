@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+  
+}
+
+
+
+
+
+
+/* signup-css */
+/* Add padding to containers */
+.userlogin-container {
+  width: 800px;
+  margin: 40px auto;
+  padding: 80px  30px;
+  background-color:#e2f2f7;
+  border-radius: 2rem;
+  box-shadow: 10px 10px 10px rgba(13, 43, 100, 0.5);
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: solid;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus, input[type=email]:focus {
+    background-color:rgb(244, 244, 245) ;
+    outline: none;
+  }
+  
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  
+  /* Set a style for all buttons */
+  .userregisterbtn{
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 30px;
+    color: white;
+    padding: 9px 40% 9px 40%;
+    background: linear-gradient(to right,#ab1dcf,#f80759);
+    box-shadow: rgba(0,0,0,0.3)0px 19px 38px,rgba(0, 0, 0, 0.22)0px 15px 12px;
+    margin-left: 3%;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  /* Float cancel and signup buttons and add an equal width */
+  .signupbtn {
+    float: center;
+    width: 50%;
+  }
+  
+
+  .userregisterform{
+    width: 60%;
+    margin-left: 20%;
+  }
+
+  .user-panel{
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  .a{
+     color: rgb(0, 0, 0);
+    text-align: center;
+  }
+
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+
+.formTop {
+     padding: 0.5px;
+    margin-top: 60px;
+    background-color: rgb(170, 204, 214);
+  }
+  .c1{
+      color: black;
+  }
+  
+  .formTitle {
+    width: 800px;
+    text-align: center;
+    margin: 50px auto;
+  }
+  
+  .formDetails {
+    width: 800px;
+    margin: 40px auto;
+    padding: 50px 30px;
+    background-color: #b3d1da;
+    border-radius: 0.4rem;
+    box-shadow: 10px 10px 10px rgb(194, 194, 194, 0.5);
+  }
+  
+  .actualForm {
+    padding: 0px 140px;
+  }
+  
+  .formName {
+    font-family: "Oswald", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 15px;
+  }
+  
+  .contactDetails {
+    width: 100%;
+    margin-bottom: 20px;
+    height: 50px;
+    padding: 0px 0px 5px 20px;
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: 4px 4px 4px rgb(194, 194, 194, 0.5);
+  }
+  
+  .contactDetails:focus {
+    outline: none;
+  }
+  
+  .contactDetailsTextArea {
+    width: 100%;
+    height: 120px;
+    padding: 15px 0px 0px 20px;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 4px 4px 4px rgb(194, 194, 194, 0.5);
+  }
+  
+  .contactDetailsTextArea:focus {
+    outline: none;
+  }
+  
+  .opt1 {
+    color: rgb(226, 226, 226);
+  }
+  
+  .formDateTime {
+    margin-bottom: 30px;
+    height: 50px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 4px 4px 4px rgb(194, 194, 194, 0.5);
+  }
+  
+  .bookBtn:focus {
+    outline: none;
+  }
+  
+  /* booking css */
+  
+  .bookdiv1 {
+    width: 800px;
+    margin: 10px auto;
+    padding-top: 100px;
+  }
+  
+  .bookBtn2 {
+    border: none;
+    border-radius: 0.4rem;
+    padding: 8px 25px;
+    background-color: rgb(18, 18, 139);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: all 0.2s linear;
+    box-shadow: 4px 4px 4px rgb(97, 97, 97, 0.4);
+  }
+  
+  .bookBtn2:hover {
+    transform: scale(1.1);
+    background-color: green;
+    
+  }
+  
+  .bookBtn2:focus {
+    outline: none;
+  }
+
+  .bookBtn1 {
+    border: none;
+    border-radius: 0.4rem;
+    padding: 8px 25px;
+    background-color: rgb(18, 18, 139);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: all 0.2s linear;
+    box-shadow: 4px 4px 4px rgb(97, 97, 97, 0.4);
+    margin-left: px;
+  }
+  .bookBtn1:hover {
+    transform: scale(1.1);
+    background-color: rgb(255, 8, 8);
+    
+  }
+  
+  .bookBtn1:focus {
+    outline: none;
+  }
+  
+  .bookAppointTitle {
+    font-family: "Oswald", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 20px;
+    /* color: rgb(212, 211, 211); */
+  }
+  
+  .bk2 {
+    margin-bottom: 20px;
+  }
+  
+  .bk3 {
+    margin-bottom: 8px;
+    color: rgb(163, 162, 162);
+    font-weight: 450;
+  }
+  
+  .free:focus {
+    color: black;
+    box-shadow: none;
+    outline: none;
+    /* background-color: black; */
+  }
+  
